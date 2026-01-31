@@ -1,44 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C6BF5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F3C88&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arthur+Evangelista+Da+Silva;+I+study+Software+Engineering+at+University+Of+Brasília;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1F3C88&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arthur+Evangelista+da+Silva;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Arthur Evangelista &show_icons=true&count_private=true&hide_border=true&title_color=2C6BF5&icon_color=2C6BF5&text_color=c9d1d9&bg_color=2C6BF5" alt="Arthur Evangelista da Silva github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur Evangelista&layout=compact&hide_border=true&title_color=2C6BF5&text_color=2C6BF5&bg_color=2C6BF5" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArthurEvangelista&show_icons=true&count_private=true&hide_border=true&title_color=1F3C88&icon_color=1F3C88&text_color=c9d1d9&bg_color=0A2540" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEvangelista&layout=compact&hide_border=true&title_color=1F3C88&text_color=c9d1d9&bg_color=0A2540" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arthur+Evangelista&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArthurEvangelista&theme=algolia&row=2&column=3&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/alv4rezz__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
 
+### 👨‍💻 About Me
+- 🎓 Software Engineering student at **University of Brasília (UnB)**
+- 💻 Focused on software development
+- 🚀 Constantly learning and improving my skills
 
+---
+
+### 🚀 Main Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-0A2540?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-0A2540?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-0A2540?style=for-the-badge&logo=python)
+
+---
+
+### 🛠 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-0A2540?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-0A2540?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0A2540?style=for-the-badge&logo=github)
+![Windows](https://img.shields.io/badge/Windows-0A2540?style=for-the-badge&logo=windows)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0A2540?style=for-the-badge&logo=microsoft-office)
+![C](https://img.shields.io/badge/C-0A2540?style=for-the-badge&logo=c)
+
+---
+
+### 📚 Other Knowledge
+![HTML](https://img.shields.io/badge/HTML-0A2540?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-0A2540?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+---
+
+### 📖 Currently Studying
+![Node.js](https://img.shields.io/badge/Node.js-0A2540?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-0A2540?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A2540?style=for-the-badge&logo=javascript)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F3C88&height=120&section=footer"/>
